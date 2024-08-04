@@ -1,3 +1,3 @@
 # My_Repo
 <br>
-My name is Mayur
+My name is Mayur Vaidya
